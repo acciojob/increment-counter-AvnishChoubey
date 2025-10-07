@@ -1,6 +1,6 @@
 //your JS code here. If required.
 const counterElement = document.getElementById('counter');
-const incrementButton = document.getElementById('increment');
+const incrementButton = document.getElementById('incrementBtn');
 
 let count = 0;
 
